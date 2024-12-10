@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2024-12-01",
+        "category": "Food",
+        "description": "Groceries",
+        "amount": 50.75
+    },
+    {
+        "date": "2024-12-02",
+        "category": "Transport",
+        "description": "Bus Ticket",
+        "amount": 2.5
+    }
+]
